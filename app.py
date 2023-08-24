@@ -182,7 +182,7 @@ ax.set_title(f'{selected_model} Facies Prediction')
 st.pyplot(fig)
 
 
-st.write("I hope you thought this was as cool as I did. If you are curious and want to learn more, I go in more depth and predict an unlabeled well in the paper linked below. Its extremely amateur and I just wrote it for fun so dont get mad at me if you dont like the grammar or something. DGMAM")
+st.write("I hope you thought this was as cool as I did. This project is explained in further detail in a reseach paper currently in submission for publication. DGMAM")
 
 st.write("paper: <insert later>")
 
