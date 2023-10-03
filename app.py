@@ -183,7 +183,7 @@ ax.set_title(f'{selected_model} Facies Prediction')
 st.pyplot(fig)
 
 
-st.write("I hope you thought this was as cool as I did. This project is explained in further detail in a reseach paper currently in submission for publication. DGMAM")
+st.write("I hope you thought this was as cool as I did. This project is explained in further detail in a reseach paper currently in submission for publication.")
 
-st.write("paper: <insert later>")
+st.write("paper: <insert after published>")
 
